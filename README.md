@@ -5,3 +5,7 @@
 
 # Circle CI
 [![CircleCI](https://circleci.com/gh/raj23manj/spring5-mvc-rest.svg?style=svg)](https://circleci.com/gh/raj23manj/spring5-mvc-rest)
+
+# Swagger
+ * /swagger-ui.html
+ * /v2/api-docs
